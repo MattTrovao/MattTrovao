@@ -1,7 +1,7 @@
 
 # What I Know
 
-| Framework | Level |
+| Languages | Level |
 |-----|-----|
 | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) | Advanced |
 | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) | Advanced |
@@ -21,8 +21,8 @@
 | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) | Intermediary |
 | ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) | Basic |
 
-## Languages
-| Language | Level |
+## Human Languages
+| Human Language | Level |
 |-----|-----|
 | 🇧🇷 | Native |
 | 🇺🇸 | Professional |
@@ -36,27 +36,18 @@
 
 ## Comments I received
 
-![Comment](https://placehold.co/400x200/1A1A1C/E0B650?text=%22He+is+amazing%22)
-Mother
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22He+is+amazing%22+-+Mother)
 
-![Comment](https://placehold.co/400x200/1A1A1C/E0B650?text=%22I+like+wheen+he+cook%22)
-Girlfriend
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22I+like+wheen+he+cook%22+-+Girlfriend)
 
-![Comment](https://placehold.co/400x200/1A1A1C/E0B650?text=%22I+like+play+Magic+with+him%22)
-One friend I play Magic
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22I+like+play+Magic+with+him%22+-+One+friend+I+play+Magic)
 
-![Comment](https://placehold.co/400x200/1A1A1C/E0B650?text=%22The+best+guy+I+could+work+with%22)
-Friend, after I told him to say that
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22The+best+guy+I+could+work+with%22+-+First+Friend+I+Asked)
 
-![Comment](https://placehold.co/400x200/1A1A1C/E0B650?text=%22He+is+great!+You+should+talk+with+him%22)
-Another friend, after I told him to say that
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22He+is+great!+Go+talk+with+him%22+-+Second+friend+I+Asked)
 
-![Comment](https://placehold.co/400x200/1A1A1C/E0B650?text=%22I+miss+this+guy,+he+is+the+best!%22)
-Third friend, after I told him to say that
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22I+miss+this+guy,+he+is+the+best!%22+-+Third+friend+I+Asked)
 
-![Comment](https://placehold.co/400x200/1A1A1C/E0B650?text=%22He+listen+to+me%22)
-Voice in my head
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22He+listen+to+me%22+-+Voice+in+my+head)
 
-![Comment](https://placehold.co/400x200/1A1A1C/E0B650?text=%22He+listen+some+weird+musics%22)
-Coworker
-
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22He+listen+some+weird+musics%22+-+Coworker)
