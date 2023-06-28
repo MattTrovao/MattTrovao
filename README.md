@@ -42,11 +42,11 @@
 
 ![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22I+like+play+Magic+with+him%22+-+One+friend+I+play+Magic)
 
-![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22The+best+guy+I+could+work+with%22+-+First+Friend+I+Asked)
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22The+best+guy+I+could+work+with%22+-+First+friend+I+asked)
 
-![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22He+is+great!+Go+talk+with+him%22+-+Second+friend+I+Asked)
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22He+is+great!+Go+talk+with+him%22+-+Second+friend+I+asked)
 
-![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22I+miss+this+guy,+he+is+the+best!%22+-+Third+friend+I+Asked)
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22I+miss+this+guy,+he+is+the+best!%22+-+Third+friend+I+asked)
 
 ![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22He+listen+to+me%22+-+Voice+in+my+head)
 
