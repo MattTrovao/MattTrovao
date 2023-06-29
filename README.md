@@ -38,7 +38,7 @@
 
 ![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22He+is+amazing%22+-+Mother)
 
-![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22I+like+wheen+he+cook%22+-+Girlfriend)
+![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22I+like+when+he+cook%22+-+Girlfriend)
 
 ![Comment](https://placehold.co/800x100/1A1A1C/E0B650?text=%22I+like+play+Magic+with+him%22+-+One+friend+I+play+Magic)
 
