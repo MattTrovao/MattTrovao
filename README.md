@@ -2,9 +2,10 @@
 
 Front-end Developer com foco em Vue.js, design responsivo e boas práticas de UI/UX.
 
-- 🎨 Formado em Design pela Universidade Positivo
-- 💻 +5 anos de experiência profissional
-- 🚀 Especializado em Vue.js, WordPress e Design System
+- 🎨 Formado em Design pela Universidade Positivo.
+- 🖥️ Técnico em Informática pela PUC-PR.
+- 💻 +5 anos de experiência profissional.
+- 🚀 Especializado em Vue.js, WordPress e Design System.
 
 ---
 
@@ -32,4 +33,4 @@ Front-end Developer com foco em Vue.js, design responsivo e boas práticas de UI
 ---
 
 ## 📢 Contato
-[Portfolio](https://thunderbeetle.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/trovao-matheus/) | [GitHub](https://github.com/MattTrovao)
+[Portfolio](https://thunderbeetle.vercel.app/) | [LinkedIn](https://www.linkedin.com/in/trovao-matheus/) |
